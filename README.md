@@ -1,16 +1,29 @@
-## Hi there 👋
+# daniel graviet
 
-<!--
-**danielgraviet/danielgraviet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML engineer focused on high-throughput systems — distributed infrastructure, system design, and models that scale.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### about
+
+Research Assistant @ [BYU PPCL](https://ppcl.byu.edu) · Previously MLE @ Martian (SF) · Incoming MLE @ Daytona (SF)
+
+I like building things that move fast and don't break under pressure. 3× hackathon winner.
+
+---
+
+### stack
+
+`Python` &nbsp; `Go` &nbsp; `Kubernetes` &nbsp; `Docker`
+
+---
+
+### projects
+
+> A handful of things I've built — spanning ML systems, distributed infra, and weekend hackathon experiments.
+
+Check the pinned repos below ↓
+
+---
+
+<sub>ml systems · distributed computing · high throughput · system design</sub>
