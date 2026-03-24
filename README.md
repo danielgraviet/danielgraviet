@@ -8,7 +8,7 @@ ML engineer focused on high-throughput systems — distributed infrastructure, s
 
 Research Assistant @ [BYU PPCL](https://github.com/BYU-PCCL) · Previously MLE @ [Martian](https://withmartian.com) · Incoming MLE @ [Daytona](https://www.daytona.io)
 
-I like building things that move fast and don't break under pressure. 3 SF × hackathon winner.
+I like building things that move fast and don't break under pressure.
 
 ---
 
