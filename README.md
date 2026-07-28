@@ -8,8 +8,6 @@ ML engineer focused on high-throughput systems — distributed infrastructure, s
 
 MLE @ [Daytona](https://www.daytona.io) · Previously MLE @ [Martian](https://withmartian.com)
 
-I like building things that move fast and don't break under pressure.
-
 ---
 
 ### stack
